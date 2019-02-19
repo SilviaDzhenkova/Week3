@@ -1,6 +1,6 @@
 public class first {
     private int a;
-    private int echoaejdo;
+    private int echoejdo;
     public first(int A, int B)
     {
         a = A;
